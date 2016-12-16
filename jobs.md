@@ -24,7 +24,6 @@ Job listing format. Earlier closing dates first.
 
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
-
 * [Research Software Engineer: Data Analytics](https://recruitment.durham.ac.uk/pls/corehrrecruit/erq_jobspec_details_form.jobspec?p_id=003702), School of Engineering & Computing Sciences, Durham University, UK - closes 15th December 2016
 
 * [Research Associate/Research Fellow/Research Software Engineer/Senior Research Software Engineer](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=12516), SpiNNaker Team - Advanced Processor Technologies Group - University of Manchester, Manchester, UK - closes 15th December 2016
@@ -34,3 +33,5 @@ Job listing format. Earlier closing dates first.
 * [Systems Developer](https://nbn.org.uk/news/nbn-trust-system-developer/), National Biodiversity Network Trust, UK - closes 6th January 2017
 
 * [Programmer](https://nbn.org.uk/news/national-biodiversity-network-trust-programmer/), National Biodiversity Network Trust, UK - closes 6th January 2017
+
+* [Research Software Engineer: High-throughput computing software](www.ugajobsearch.com/applicants/Central?quickFind=70345), Department of Plant Biology, University of Georgia, USA - open until filled (1.February 2017 anticipated, but negotioatable)
